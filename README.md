@@ -21,3 +21,9 @@ client_heart_disease.py
 ```
 
 5. later, several questions will appear. answer the question, then at the end a prediction will appear whether heart disease or not.
+
+### Team member
+
+1. Dian Resky Dirman
+2. Nurul Izza Wasi
+3. Isdafia Rahmadani
